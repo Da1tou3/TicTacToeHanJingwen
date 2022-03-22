@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">井字游戏</string>
+    <string name="start_a_new_game">开始新游戏</string>
+    <string name="Enter_your_move">请你走一步</string>
+    <string name="Please_enter">请输入步数的数值为区间1到</string>
+    <string name="That_space_is_occupied">这个地方被占用了。请再选择一个其他的地方。</string>
+    <string name="Computer_is_moving_to">机器人要移动到 </string>
+    <string name="Android_turn">现在该机器人走了</string>
+    <string name="your_turn">现在该你走了</string>
+    <string name="a_tie">平局！</string>
+    <string name="You_won">你赢了！</string>
+    <string name="Android_won">机器人赢了！</string>
+    <string name="You_go_first">你先手一步</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="aboutme">关于我</string>
+    <string name="name">姓名：韩婧文</string>
+    <string name="id">学生号:56879535</string>
+</resources>
