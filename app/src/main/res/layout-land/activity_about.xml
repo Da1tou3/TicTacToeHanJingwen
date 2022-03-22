@@ -47,7 +47,6 @@
             android:textColor="@color/grey"/>
     </LinearLayout>
 
-
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
